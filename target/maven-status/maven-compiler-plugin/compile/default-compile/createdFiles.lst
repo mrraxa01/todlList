@@ -1,0 +1,6 @@
+com\mrraxa01\todolist\TodolistApplication.class
+com\mrraxa01\todolist\docs\SwaggerConfiguration.class
+com\mrraxa01\todolist\service\TaskService.class
+com\mrraxa01\todolist\controller\TaskController.class
+com\mrraxa01\todolist\repository\TaskRepository.class
+com\mrraxa01\todolist\model\Task.class
